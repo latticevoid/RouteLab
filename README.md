@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧭 PathForge
+# 🧭 RouteLab
 
 ### Interactive Pathfinding & Algorithm Visualizer
 
@@ -14,9 +14,9 @@ Built with **HTML**, **CSS**, and **JavaScript**
 
 ## ✨ About
 
-**PathForge** is an interactive pathfinding visualizer that demonstrates how popular graph search algorithms explore a grid and discover the shortest path.
+**RouteLab** is an interactive pathfinding visualizer that demonstrates how popular graph search algorithms explore a grid and discover the shortest path.
 
-Draw obstacles, place start and end nodes, choose an algorithm, and watch each step animate in real time. PathForge is designed to make algorithms easier to understand through visualization.
+Draw obstacles, place start and end nodes, choose an algorithm, and watch each step animate in real time. RouteLab is designed to make algorithms easier to understand through visualization.
 
 ---
 
@@ -69,8 +69,8 @@ Start ●──────────────◎ End
 Clone the repository:
 
 ```bash
-git clone https://github.com/LatticeVoid/PathForge.git
-cd PathForge
+git clone https://github.com/LatticeVoid/RouteLab.git
+cd RouteLab
 ```
 
 Open `index.html` in your browser.
@@ -129,6 +129,6 @@ This project is licensed under the terms described in **LICENSE**.
 
 Made with ❤️ for learning algorithms.
 
-**PathForge** © LatticeVoid
+**RouteLab** © LatticeVoid
 
 </div>
