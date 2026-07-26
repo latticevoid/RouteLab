@@ -121,7 +121,7 @@ Feel free to fork the repository and submit a pull request.
 
 ## 📄 License
 
-This project is licensed under the terms described in **LICENSE**.
+This project is fully open-source, and no License have been made.
 
 ---
 
