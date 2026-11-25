@@ -24,6 +24,8 @@ Draw obstacles, place start and end nodes, choose an algorithm, and watch each s
 
 ## 🚀 Features
 
+| Features| Description|
+|:--|:--|
 | 🟢 **Interactive Grid** | Draw and erase walls with your mouse |
 | 📍 **Movable Nodes** | Place custom start and end positions |
 | 🧠 **Multiple Algorithms** | BFS, DFS, Dijkstra, and A* |
