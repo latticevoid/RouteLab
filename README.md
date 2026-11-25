@@ -50,22 +50,6 @@ Each algorithm behaves differently, allowing users to compare their efficiency a
 
 ---
 
-## 📸 Preview
-
-> *(Add screenshots or a GIF here once the project is complete.)*
-
-Example:
-
-```
-Start ●──────────────◎ End
-
-🟩 = Visited Nodes
-🟦 = Final Path
-⬛ = Walls
-```
-
----
-
 ## 📦 Installation
 
 Clone the repository:
