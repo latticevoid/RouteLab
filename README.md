@@ -8,6 +8,8 @@ Visualize **103 algorithms** across 9 categories in real time on an interactive 
 
 **[Live Demo — routelabb.netlify.app](https://routelabb.netlify.app)**
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f9e17b0e-cf2a-461d-925f-0e4499136e6e/deploy-status)](https://app.netlify.com/projects/routelabb/deploys)
+
 </div>
 
 ---
