@@ -1,6 +1,9 @@
 <div align="center">
 
-# RouteLab
+ <h1>
+  <img src="https://raw.githubusercontent.com/latticevoid/RouteLab/24cd9232712f5e0093b75f37e0085b8598f8e7df/favicon.svg" width="24" height="24" />
+  RouteLab
+</h1>
 
 ### Interactive Pathfinding, Motion Planning & Network Routing Visualizer
 
